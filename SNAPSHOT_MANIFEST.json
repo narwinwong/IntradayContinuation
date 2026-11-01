@@ -1,0 +1,32 @@
+{
+  "title": "Intraday Continuation",
+  "scope_commit": "37e4927",
+  "classification": "FAILED_EXPLORATORY_DEVELOPMENT_PUBLIC_DISCLOSURE",
+  "raw_data_included": false,
+  "private_history_included": false,
+  "verified_edge": false,
+  "files": {
+    ".gitattributes": "23302dd90b8bb74b44d365fafef8df20f809b61cb347023951ecf60a88a29651",
+    ".gitignore": "07b06d6cd24b7dd961f74f018bbec6bbadb0aa33ef37c9c8ffa628f8c1dd415e",
+    "AUDIT.md": "2b9827484e0641485a8fbf23a0726f6165a70fbe5c1239200224bc134185b10c",
+    "calendar_rules.py": "51f7abda7365299fb6dbfd11f58ee12e687fe326bef48fa0ce47f4ff4a357ffa",
+    "cash_ledger.py": "2ef4e888a6d65c5b6773942118ce127b7490b0453e470c76b3a108aec5b18b77",
+    "clock.py": "693a1e24d514e52f35343cac6aebf5cd0ec2fef84b3d62e18d0a0e489e96e553",
+    "figures/results.png": "34858e25f103c9869148d2ef39726da010730e1b496b9139949197d1e8fe01fa",
+    "model.py": "b70db8650d9579633576e7ce8a352738463e1432fdbbc716222923e924e84f3c",
+    "plot_results.py": "cec67bd70f634a066a0820cd5fdb9c82d4764ca906803b562d1b2ec32faa2758",
+    "PROTOCOL.md": "821ab39faac064e5d7780ba800e1ae329d56570a7bb49b3c7f21ef5b5e10884a",
+    "README.md": "be24e5adb6b09d03804acf05d94c2abad653131ae4f7f21db5ca0c78485c1299",
+    "REPORT.md": "a77a5e260f6af47d035609520333333423f0e215cda27e6756b43a1740ae3e16",
+    "requirements.txt": "4c5faf86f0a88767bfe03bf9828139a3a876fd41bf5757b409a5a87461892e74",
+    "resampling.py": "529f461b82f8640c30a3142cfb468cfb9196c6fabd0461ba39d350c47dfad6ba",
+    "results.json": "ddf934cb4a92be0addbbad101cb314d6ad10323af6aeed95c2c0b28537a4e42c",
+    "source_grid.py": "3a71b546400afcae766acb6c8b14c93247089cae028fdcf06714956899b6e74e",
+    "test_model.py": "dbf5c52864b63105a09a8a2c66173dad896d8cdc815b31254af3d7e38401c110",
+    "test_resampling.py": "f00848c1e23d063da841ab23fc513f0f825bc012ec5dc0748d8dbd2195eccc12",
+    "test_source_grid.py": "20fd9a8380d3e1a22907d03f5a485057e2c9c5af6ebd52bbfdf3307e14a33443",
+    "test_verify_snapshot.py": "6112c005a8eca1b35ea8b59d7df810836742a9b4295385788be87b6b17571d1d",
+    "verify_snapshot.py": "234058f0ef633b9add9c879c33496bea9d16521dfb6b2f612a96dbf909a0f3f0"
+  },
+  "hash_convention": "UTF-8 text LF normalized; PNG raw bytes; manifest excludes itself"
+}
